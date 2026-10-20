@@ -1,0 +1,3 @@
+Write a function that calculates the sum of two numbers
+
+Learning -> How to assign a return type to a function
