@@ -6,4 +6,4 @@ function greet():void{
     console.log("I am greet function");
 }
 
-delayFunction(greet)
+delayFunction(greet);
